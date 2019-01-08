@@ -13,7 +13,7 @@ Chinese version document: [Not upload yet](ethyang.com)
 This script is used to download the specific target account's valuable posts (post that have more than 139 chars)on weibo.com, one of the biggest social media in the PRC, and the attached imgs. 
 <br>
 
-#####Effect:
+##### Effect:
 ******
 > update later
 <br>
