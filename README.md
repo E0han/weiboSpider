@@ -11,25 +11,28 @@ Chinese version document: [Not upload yet](ethyang.com)
 ##### What is this?
 ******
 This script is used to download the specific target account's valuable posts (post that have more than 139 chars)on weibo.com, one of the biggest social media in the PRC, and the attached imgs. 
+<br>
+
 #####Effect:
 ******
 > update later
-
 <br>
+
 ##### Requirements
 ******
 ![](https://img.shields.io/pypi/pyversions/:3.svg) ![](https://img.shields.io/badge/Beautifulsoup4-Python%20--%20lib-green.svg)
 ![](https://img.shields.io/badge/Requests-Python%20--%20lib-blue.svg)
 
 Use pip install both of them 
-
 <br>
+
 ##### Preparation
 ******
 - login to your account via m.weibo.cn on your laptop
 - Searching your target, and get into his profile, record his "ID number" from the url like this:
 > m.weibo.cn/profile/**189xxxxxxx**
 - Your login info - mobile number and the password
+<br>
 
 ##### Usage
 ******
